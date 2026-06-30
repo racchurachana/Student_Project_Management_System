@@ -119,11 +119,5 @@ http://localhost/prj_mang_fixed/
 
 ##  Built by
 
-**Rachana HB**
-
-Bachelor of Computer Applications
-
-Government Science College, Hassan
-
-Academic Year: **2023–2024**
+**Rachana HB - BCA,Government Science College, Hassan**
 
