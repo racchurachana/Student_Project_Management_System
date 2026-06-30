@@ -12,7 +12,7 @@ The application promotes knowledge sharing, reduces duplication of project ideas
 
 ---
 
-## ✨ Features
+##  Features
 
 *  Student Registration and Login
 *  Secure User Authentication
@@ -27,7 +27,7 @@ The application promotes knowledge sharing, reduces duplication of project ideas
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -127,7 +127,3 @@ Government Science College, Hassan
 
 Academic Year: **2023–2024**
 
-
-## 📄 License
-
-This project is developed for educational purposes as part of the Bachelor of Computer Applications (BCA) curriculum.
