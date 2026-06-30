@@ -73,7 +73,7 @@ Student-Project-Management-System/
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/student-project-management-system.git
+git clone https://github.com/racchurachana/student-project-management-system.git
 
 ### 2. Move Project
 
@@ -114,7 +114,7 @@ $database = "prj_mang_database";
 
 Open your browser:
 
-http://localhost/prj_mang_fixed/
+http://localhost/prj_mangg/
 
 
 ##  Built by
